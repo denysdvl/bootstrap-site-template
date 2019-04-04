@@ -1,0 +1,54 @@
+body {
+    height: 2000px;
+}
+p-0{
+    padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    height: 50px;
+    width: 50px;
+}
+
+foto{
+    display: block;
+    /*    position: relative;*/
+    width: 100%;
+    background-size: cover;
+    height: 400px;
+
+}
+input::-webkit-input-placeholder {
+    color: white !important;
+}
+input::-moz-placeholder {
+    color: white !important;
+}
+input:-moz-placeholder { /* Older versions of Firefox */
+    color: white !important;
+}
+input:-ms-input-placeholder {
+    color: white !important;
+}
+/*conter div.container-fluid div.container{*/
+    /*border: 1px solid #ddd;*/
+    /*border-radius: 10px;*/
+
+/*}*/
+conter img.card-img-top{
+    display: block;
+    /*    position: relative;*/
+    width: 100%;
+    background-size: cover;
+    height: 300px;
+}
+content div.embed-responsive,.embed-responsive-16by9, .rounded-lg{
+    display: block;
+           /*position: relative;*/
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+
+}
+.bg-dark-grup{
+    background-color: #1b1e21;
+}

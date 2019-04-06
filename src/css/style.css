@@ -52,3 +52,17 @@ content div.embed-responsive,.embed-responsive-16by9, .rounded-lg{
 .bg-dark-grup{
     background-color: #1b1e21;
 }
+#gotop{
+    cursor: pointer;
+    position: fixed;
+align-items: center;
+justify-content: center;
+background: #007bff;
+color: #1b1e21;
+width: 70px;
+height: 70px;
+bottom: 25px;
+right: 25px;
+border-radius: 50%;
+
+}

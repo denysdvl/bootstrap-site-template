@@ -7,4 +7,5 @@ _You **can** combine this with your web project_
 In this project, I almost did everything through bootstrap and jQuery.
 There is also a **go to top** button and a fully adaptive template for all screen sizes 
 
-**Evaluate the design you can watch the demo https://denysdvl.github.io/bootstrap_-site_template/.**
+**Evaluate the design you can watch the demo .**
+https://denysdvl.github.io/bootstrap_-site_template/
